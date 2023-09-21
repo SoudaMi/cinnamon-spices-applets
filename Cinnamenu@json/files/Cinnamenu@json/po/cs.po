@@ -115,7 +115,7 @@ msgid "Find files..."
 msgstr "Najít soubory ..."
 
 msgid "Please wait..."
-msgstr "Prosím, čekejte..."
+msgstr "Prosím, vyčkejte..."
 
 msgid "Applications"
 msgstr "Aplikace"
@@ -172,7 +172,7 @@ msgid "Home folder"
 msgstr "Domovská složka"
 
 msgid "Reset category order"
-msgstr "Resetovat pořadí kategorií"
+msgstr "Obnovit původní pořadí kategorií"
 
 msgid "light skin tone"
 msgstr "světlý tón pleti"
@@ -196,7 +196,7 @@ msgid "Open with"
 msgstr "Otevřít s"
 
 msgid "Other application..."
-msgstr "Další aplikace ..."
+msgstr "Ostatní aplikace ..."
 
 msgid "Open containing folder"
 msgstr "Otevřít složku obsahující"
@@ -300,7 +300,7 @@ msgid "Panel"
 msgstr "Panel"
 
 msgid "Menu"
-msgstr "Jídelní lístek"
+msgstr "Nabídka"
 
 msgid "Layout"
 msgstr "Rozložení"
@@ -342,10 +342,10 @@ msgid "Keyboard shortcut to open and close the menu"
 msgstr "Klávesová zkratka pro otevření a zavření nabídky"
 
 msgid "Open menu on hover"
-msgstr "Otevřete nabídku při najetí myší"
+msgstr "Otevřít nabídku při najetí myší"
 
 msgid "Open the menu when I move my mouse over the panel icon"
-msgstr "Když přejedu myší nad ikonou panelu, otevřete nabídku"
+msgstr "Otevřít nabídkuKdyž přejedu myší nad ikonou panelu, otevřete nabídku"
 
 msgid "milliseconds"
 msgstr "milisekundy"
@@ -354,22 +354,22 @@ msgid "Menu hover delay"
 msgstr "Zpoždění přechodu nabídky"
 
 msgid "Use menu animations"
-msgstr "Použijte animace nabídky"
+msgstr "Použít animace nabídky"
 
 msgid "Animate the menu on open and close"
 msgstr "Animace nabídky při otevírání a zavírání"
 
 msgid "Activate categories on click"
-msgstr "Aktivujte kategorie kliknutím"
+msgstr "Přejít do kategorie kliknutím"
 
 msgid "Activate categories on click instead of on hover"
-msgstr "Aktivujte kategorie kliknutím, nikoli umístěním kurzoru myši"
+msgstr "Přejít do kategorie kliknutím, nikoli umístěním kurzoru myši"
 
 msgid "Enable autoscrolling"
-msgstr "Povolit automatický posuv"
+msgstr "Povolit automatický posun"
 
 msgid "Enable autoscrolling in application list"
-msgstr "Povolit automatický posuv v seznamu aplikací"
+msgstr "Povolit automatický posun v seznamu aplikací"
 
 msgid "Show web bookmarks"
 msgstr "Zobrazit webové záložky"
@@ -448,13 +448,13 @@ msgid "Application description placement"
 msgstr "Umístění popisu aplikace"
 
 msgid "Tooltips"
-msgstr "Tipy"
+msgstr "Bubliny s nápovědou"
 
 msgid "Under titles"
-msgstr "Pod tituly"
+msgstr "Pod názvy"
 
 msgid "None"
-msgstr "Žádný"
+msgstr "Žádné"
 
 msgid "Choose where to show application descriptions"
 msgstr "Vyberte, kde se mají zobrazovat popisy aplikací"
@@ -509,7 +509,7 @@ msgid "Show home folder category in the menu"
 msgstr "Zobrazit kategorii domovské složky v nabídce"
 
 msgid "Last used category"
-msgstr "Předchozí kategorie"
+msgstr "Naposledy použitá kategorie"
 
 msgid "Autoscroll the application list on mouse hover"
 msgstr "Automatické rolování seznamu aplikací při najetí myší"
@@ -539,7 +539,7 @@ msgid "When searching, also search my home folder for files"
 msgstr "Při vyhledávání také vyhledejte soubory v domovské složce"
 
 msgid "Web history search"
-msgstr "vyhledávání webové historie"
+msgstr "Vyhledávání webové historie"
 
 msgid ""
 "When searching, also search my browser's history (Google Chrome, Chromium, Opera, Vivaldi, Brave)\n"
@@ -559,7 +559,7 @@ msgstr ""
 "Poznámka: Chcete-li prohledávat záložky Firefoxu, budete si muset nainstalovat balíček gir1.2-gda-5.0 (distribuce založené na Debianu vč. Ubuntu & Linux Mint) nebo zabalte libgda (distribuce založené na Arch) a restartujte počítač."
 
 msgid "Wikipedia search"
-msgstr "vyhledávání na Wikipedii"
+msgstr "Vyhledávání na Wikipedii"
 
 msgid "Show some Wikipedia results"
 msgstr "Zobrazit některé výsledky Wikipedie"
@@ -577,10 +577,10 @@ msgstr ""
 "Například: Chcete-li vyhledat emotikony, zadejte 'e srdce', abyste našli emotikony srdce. Podobně použijte předpony „f“ pro vyhledávání souborů, „h“ pro webovou historii a „b“ pro vyhledávání webových záložek.\n"
 
 msgid "Use a custom icon size"
-msgstr "Použijte vlastní velikost ikony"
+msgstr "Použít vlastní velikost ikony"
 
 msgid "Use a custom size for the panel icon"
-msgstr "Pro ikonu panelu použijte vlastní velikost"
+msgstr "Pro ikonu panelu použít vlastní velikost"
 
 msgid "Panel icon size (pixels)"
 msgstr "Velikost ikony panelu (v pixelech)"
@@ -598,7 +598,28 @@ msgid "Use a sidebar box style"
 msgstr "Použijte styl rámečku postranního panelu"
 
 msgid "Use tile style"
-msgstr "Použijte styl dlaždic"
+msgstr "Použít styl dlaždic"
 
 msgid "Use a tile style for the application buttons (Note: may not work on some themes)"
 msgstr "Použijte styl dlaždic pro tlačítka aplikace (Poznámka: nemusí fungovat u některých motivů)"
+
+msgid "Show sidebar"
+msgstr "Zobrazit postranní panel"
+
+msgid "Show categories"
+msgstr "Zobrazit kategorie"
+
+msgid "Apps and files"
+msgstr "Aplikace a soubory"
+
+msgid "Show emoji category"
+msgstr "Zobrazit kategorii s emodži"
+
+msgid "Web search suggestions"
+msgstr "Návrhy hledání z internetu"
+
+msgid "Apps only"
+msgstr "Pouze aplikace"
+
+msgid "Files only"
+msgstr "Pouze soubory"
